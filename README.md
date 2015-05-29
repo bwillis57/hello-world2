@@ -2,4 +2,4 @@
 =================
 My second repository on GitHub
 =================
-I enjoy craft beer in tulip glasses.
+I enjoy craft beer in tulip glasses and love to party.
